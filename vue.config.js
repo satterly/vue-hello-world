@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: '/alerta/ui/'
-};
+  publicPath: "/alerta/ui",
+  outputDir: "dist/alerta/ui"
+}
